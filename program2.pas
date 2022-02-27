@@ -2,7 +2,7 @@ uses graphabc;
 const max=10;
 speed = 10;
 
-var a:array[1..max,1..4] of integer;
+var a:array[1..max,1..4] of integer;//new coment
 active:integer;
 
 procedure picture(x:integer; y:integer);//отображение снаряда
